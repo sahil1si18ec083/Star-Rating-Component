@@ -1,0 +1,13 @@
+.star {
+  cursor: pointer;
+  color: gray;
+  padding: 5px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.star-container {
+  font-size: 2rem;
+}
